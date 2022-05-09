@@ -30,11 +30,11 @@ export const Work = [
         demo:"https://spotify-clone-five-mu.vercel.app/",
         github:"https://github.com/MayankKacha/Spotify-clone"
     },
-    {
+    { //built using Dot net core and
         id:3,
         name:"Commander API",
-        description:"REST-API built using Dot net core and integrated with swagger. This api can be used to store,update,delete,search commands that we tend to forget in our everyday life.",
-        tags:["dotnet","restapi","swagger"],
+        description:"REST-API integrated with swagger. This api can be used to store,update,delete,search commands that we tend to forget in our everyday life.",
+        tags:["java","restapi","swagger","mssql"],
         
         demo:"http://commanderapi.somee.com/index.html",
         github:"https://github.com/MayankKacha/Commander-API"
@@ -43,7 +43,7 @@ export const Work = [
         id:4,
         name:"Razor Pages Project",
         description:"A simple razor page project with CRUD operations and in backend, MSSQL as DB and for styling and designing I used HTML,CSS and Javascript, to connect frontend with backend I used entity framework core.",
-        tags:["razorpages","crud","dotnet","entityframework"],
+        tags:["razorpages","crud","entityframework"],
         
         demo:"http://razorproject.somee.com/",
         github:"https://github.com/MayankKacha/RazorPageProject"

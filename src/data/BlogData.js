@@ -4,7 +4,7 @@ export const Blogs = [
     {
         id:1,
         name:"Working at an amazing company named Mystifly.",
-        tags:[".net-core","MVC","Full-stack_developer"],
+        tags:["Java",".net-core","MVC","Full-stack_developer"],
         date:"2nd May 2021 - present",
         imgSrc:"https://www.breakingtravelnews.com/images/sized/images/uploads/airline/Mystifly-700x275.png",
         link:"https://mystifly.com/"
