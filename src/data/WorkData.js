@@ -40,6 +40,7 @@ export const Work = [
         github:"https://github.com/MayankKacha/Commander-API"
        
     },{
+        
         id:4,
         name:"Razor Pages Project",
         description:"A simple razor page project with CRUD operations and in backend, MSSQL as DB and for styling and designing I used HTML,CSS and Javascript, to connect frontend with backend I used entity framework core.",
@@ -68,11 +69,11 @@ export const Work = [
         github:"https://github.com/MayankKacha/Visualstudio-Code"
     },
     {
-         
+         //Build with Dot net core with MVC framework and in backend, MSSQL as DB and for styling and designing I used HTML,CSS & Javascript,to connect frontend with backend I used entity framework core.",
         id:7,
         name:"Library management application",
-        description:"Build with Dot net core with MVC framework and in backend, MSSQL as DB and for styling and designing I used HTML,CSS & Javascript,to connect frontend with backend I used entity framework core.",
-        tags:["dotnet","mvc","mssql","entityframework"],
+        description:"Build with Java and as DB I used , MSSQL and for styling and designing I used HTML,CSS & Javascript,to connect frontend with backend I used entity framework core.",
+        tags:["java","mvc","mssql"],
         
         demo:"https://share.vidyard.com/watch/yiHRVM7TGQwbjH6n3ePtWa?",
         github:"https://github.com/MayankKacha/LibraryManagement"
