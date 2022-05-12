@@ -34,7 +34,7 @@ export const Work = [
         id:3,
         name:"Commander API",
         description:"REST-API integrated with swagger. This api can be used to store,update,delete,search commands that we tend to forget in our everyday life.",
-        tags:["java","restapi","swagger","mssql"],
+        tags:["Dotnetcore","restapi","swagger","mssql"],
         
         demo:"http://commanderapi.somee.com/index.html",
         github:"https://github.com/MayankKacha/Commander-API"
@@ -73,7 +73,7 @@ export const Work = [
         id:7,
         name:"Library management application",
         description:"Build with Java and as DB I used , MSSQL and for styling and designing I used HTML,CSS & Javascript,to connect frontend with backend I used entity framework core.",
-        tags:["java","mvc","mssql"],
+        tags:["dotnetcore","mvc","mssql"],
         
         demo:"https://share.vidyard.com/watch/yiHRVM7TGQwbjH6n3ePtWa?",
         github:"https://github.com/MayankKacha/LibraryManagement"
